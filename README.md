@@ -70,7 +70,7 @@ I am a Computer Science student and an aspiring Backend Developer with a strong 
 <h3>Project Highlights</h3>
 <ul>
   <li><a href="https://aquacheckdigitalplatform.runasp.net/"><b>  AquaCheck Digital Platform</b></a><br/><i>Production-ready ASP.NET Core MVC platform for dive centers with e-signatures, automated PDF generation, and centralized record management.</i></li>
-  <li><a href="https://lnkd.in/gyXhnwnM"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Mega Matter E-commerce</b></a><br/><i>Full-featured e-commerce platform with PayPal integration, built in 3 weeks with 18,000+ lines of code.</i></li>
+  <li><a href="https://lnkd.in/gyXhnwnM"><b> Mega Matter E-commerce</b></a><br/><i>Full-featured e-commerce platform with PayPal integration, built in 3 weeks with 18,000+ lines of code.</i></li>
   <li><a href="https://github.com/Osama-matter/Hotel-Bokking-System"><b>Hotel Booking System API</b></a><br/><i>RESTful API with JWT authentication, role-based access, and comprehensive booking management.</i></li>
   <li><a href="https://github.com/Osama-matter/university_Project"><b>University Management System</b></a><br/><i>Role-based authentication system for managing courses, departments, and student applications.</i></li>
   <li><a href="https://github.com/Osama-matter/Libary_-Mangment_System"><b>Library Management System</b></a><br/><i>Book management with advanced search and filtering capabilities using ASP.NET Core MVC.</i></li>
