@@ -35,44 +35,48 @@ I am a Computer Science student and an aspiring Backend Developer with a strong 
       <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-    <td><a href="https://github.com/Osama-matter/Industrix.git"><b>Industrix - Inventory Microservice</b></a></td>
+ <tbody>
+  <tr>
+    <td><a href="https://github.com/Osama-matter/Industrix"><b>Industrix - Inventory Microservice</b></a></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/Osama-matter/Industrix?style=flat-square&labelColor=343b41"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/Osama-matter/Industrix?style=flat-square&labelColor=343b41"/></td>
     <td><img alt="Issues" src="https://img.shields.io/github/issues/Osama-matter/Industrix?style=flat-square&labelColor=343b41"/></td>
     <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Osama-matter/Industrix?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+  </tr>
 
-    <tr>
-      <td><a href="https://github.com/Osama-matter/AquaCheck-Digital-Platform"><b>AquaCheck Digital Platform</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Osama-matter/AquaCheck-Digital-Platform?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Osama-matter/AquaCheck-Digital-Platform?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Osama-matter/AquaCheck-Digital-Platform?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Osama-matter/AquaCheck-Digital-Platform?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Osama-matter/E-Commers-MVC"><b>Mega Matter E-commerce Platform</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Osama-matter/E-Commers-MVC?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Osama-matter/E-Commers-MVC?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Osama-matter/E-Commers-MVC?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Osama-matter/E-Commers-MVC?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Osama-matter/Hotel-Bokking-System"><b>Hotel Booking System API</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Osama-matter/Hotel-Bokking-System?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Osama-matter/Hotel-Bokking-System?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Osama-matter/Hotel-Bokking-System?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Osama-matter/Hotel-Bokking-System?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Osama-matter/university_Project"><b>University Management System</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Osama-matter/university_Project?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Osama-matter/university_Project?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Osama-matter/university_Project?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Osama-matter/university_Project?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
+  <tr>
+    <td><a href="https://github.com/Osama-matter/AquaCheck-Digital-Platform"><b>AquaCheck Digital Platform</b></a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/Osama-matter/AquaCheck-Digital-Platform?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/Osama-matter/AquaCheck-Digital-Platform?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Issues" src="https://img.shields.io/github/issues/Osama-matter/AquaCheck-Digital-Platform?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Osama-matter/AquaCheck-Digital-Platform?style=flat-square&labelColor=343b41"/></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/Osama-matter/E-Commers-MVC"><b>Mega Matter E-commerce Platform</b></a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/Osama-matter/E-Commers-MVC?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/Osama-matter/E-Commers-MVC?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Issues" src="https://img.shields.io/github/issues/Osama-matter/E-Commers-MVC?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Osama-matter/E-Commers-MVC?style=flat-square&labelColor=343b41"/></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/Osama-matter/Hotel-Bokking-System"><b>Hotel Booking System API</b></a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/Osama-matter/Hotel-Bokking-System?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/Osama-matter/Hotel-Bokking-System?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Issues" src="https://img.shields.io/github/issues/Osama-matter/Hotel-Bokking-System?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Osama-matter/Hotel-Bokking-System?style=flat-square&labelColor=343b41"/></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/Osama-matter/university_Project"><b>University Management System</b></a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/Osama-matter/university_Project?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/Osama-matter/university_Project?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Issues" src="https://img.shields.io/github/issues/Osama-matter/university_Project?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Osama-matter/university_Project?style=flat-square&labelColor=343b41"/></td>
+  </tr>
+</tbody>
+
 </table>
 
 <h3>Project Highlights</h3>
