@@ -36,6 +36,14 @@ I am a Computer Science student and an aspiring Backend Developer with a strong 
     </tr>
   </thead>
  <tbody>
+   <tr>
+    <td><a href="https://github.com/Osama-matter/EduPlatform"><b>EduPlatform - Enterprise LMS</b></a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/Osama-matter/EduPlatform?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/Osama-matter/EduPlatform?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Issues" src="https://img.shields.io/github/issues/Osama-matter/EduPlatform?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Osama-matter/EduPlatform?style=flat-square&labelColor=343b41"/></td>
+</tr>
+
   <tr>
     <td><a href="https://github.com/Osama-matter/Industrix"><b>Industrix - Inventory Microservice</b></a></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/Osama-matter/Industrix?style=flat-square&labelColor=343b41"/></td>
