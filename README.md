@@ -150,15 +150,17 @@ public class OsamaMatter : BackendDeveloper
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 Quick Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Osama-matter&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-matter&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Osama-matter&theme=radical&hide_border=true)
+| 🏆 Achievement | 📊 Details |
+|---------------|-----------|
+| **Projects Completed** | 6+ Production-Ready Applications |
+| **Primary Language** | C# / .NET Ecosystem |
+| **Code Quality** | Clean Architecture & SOLID Principles |
+| **Experience** | APIs, MVC, Microservices, Database Design |
+| **Live Deployments** | AquaCheck Platform (Production) |
 
 </div>
 
