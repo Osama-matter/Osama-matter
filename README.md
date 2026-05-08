@@ -4,9 +4,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=120&section=header&animation=fadeIn" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A1A?style=for-the-badge&logo=linkedin&logoColor=7C3AED)](https://www.linkedin.com/in/osama-matter-86511b341)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A1A?style=for-the-badge&logo=linkedin&logoColor=7C3AED)](https://www.linkedin.com/in/osama-mattar-86511b341)
 [![GitHub](https://img.shields.io/badge/GitHub-0A0A1A?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/Osama-matter)
-[![Profile Views](https://komarev.com/ghpvc/?username=Osama-matter&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Osama-matter)
+[![Profile Views](https://komarev.com/ghpvc/?username=Osama-matter&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Osama-mattar)
 
 </div>
 
@@ -20,7 +20,7 @@ CS student architecting **production-grade .NET backends**. I care deeply about 
 // C# 12 — because old habits are technical debt
 
 var me = new Developer(
-    Name: "Osama Matter",
+    Name: "Osama Mattar",
     Stack: ["ASP.NET Core 8", "Clean Architecture", "CQRS", "EF Core", "SQL Server"],
     CurrentlyBuilding: "Multi-tenant SaaS clinic management platform",
     OpenToWork: true
