@@ -126,7 +126,7 @@ IEnumerable<string> GetValues() =>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Osama-matter&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0A0A1A&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD" />
+<img src="https://streak-stats.demolab.com?user=Osama-matter&theme=midnight-purple&hide_border=true&background=0A0A1A&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD" />
 
 <br/><br/>
 
