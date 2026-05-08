@@ -62,17 +62,18 @@ public class OsamaMatter : BackendDeveloper
 <table>
 <td width="50%">
 
-### 🏥 [Clinic Booking System](https://github.com/Osama-matter )
-**Multi-tenant Management System for Healthcare Providers**
+### 🏥 [Clinic Appointment Management](https://github.com/Osama-matter/Clinic-appointment-management.git )
+**Enterprise-Grade Healthcare Management Solution**
 
-- 📅 Advanced appointment scheduling & management
-- 👨‍v⚕️ Multi-tenant architecture for doctors & clinics
-- ⚙️ Background job processing with Hangfire
-- 🛡️ Secure RBAC & JWT Authentication
+- 🏗️ **Clean Architecture & CQRS**: Implemented for high scalability and separation of concerns.
+- 🔐 **Advanced Security**: JWT-based authentication with fine-grained Role-Based Access Control (RBAC).
+- ⚡ **Performance Optimized**: Integrated Hangfire for background processing and Serilog for structured logging.
+- 📊 **Comprehensive API**: 15+ RESTful endpoints with full Swagger/OpenAPI documentation.
 
-`ASP.NET Core 8` `Clean Architecture` `SQL Server` `Hangfire`
+`ASP.NET Core 8` `EF Core` `SQL Server` `Hangfire` `Serilog`
 
 </td>
+
 
 <tr>
 <td width="50%">
