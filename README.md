@@ -126,9 +126,11 @@ IEnumerable<string> GetValues() =>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Osama-matter&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0A1A&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&cache_seconds=1800"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-matter&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0A0A1A&title_color=A78BFA&text_color=C4B5FD&langs_count=6&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Osama-matter&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0A0A1A&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Osama-matter&theme=discord&no-frame=true&row=1&column=6" />
 
 </div>
 
