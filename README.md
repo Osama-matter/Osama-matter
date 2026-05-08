@@ -60,6 +60,20 @@ public class OsamaMatter : BackendDeveloper
 ## 🏆 Featured Projects
 
 <table>
+<td width="50%">
+
+### 🏥 [Clinic Booking System](https://github.com/Osama-matter )
+**Multi-tenant Management System for Healthcare Providers**
+
+- 📅 Advanced appointment scheduling & management
+- 👨‍v⚕️ Multi-tenant architecture for doctors & clinics
+- ⚙️ Background job processing with Hangfire
+- 🛡️ Secure RBAC & JWT Authentication
+
+`ASP.NET Core 8` `Clean Architecture` `SQL Server` `Hangfire`
+
+</td>
+
 <tr>
 <td width="50%">
 
