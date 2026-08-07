@@ -57,6 +57,31 @@ IEnumerable<string> GetValues() =>
 ---
 
 ## 🏗️ Featured Projects
+### 🍔 [Food Delivery System](https://github.com/Osama-matter/Delivery-System)
+
+> Scalable food delivery backend built with Clean Architecture.
+
+- **Architecture:** Clean Architecture + CQRS/MediatR
+- **Authentication:** JWT + Role-Based Authorization
+- **Business Logic:** Complete order lifecycle & delivery workflow
+- **API Surface:** RESTful API with Swagger/OpenAPI documentation
+
+`ASP.NET Core 8` `EF Core` `SQL Server` `JWT` `Swagger`
+
+---
+
+### 🚍 [Transportation Booking Platform](https://github.com/AbdoSol1iman/Transportation-booking-)
+
+> Full-stack transportation booking platform for managing intercity trips.
+
+- **Frontend:** Angular + Tailwind CSS
+- **Backend:** Node.js + Express + MongoDB
+- **Security:** JWT Authentication + Role-Based Access Control (RBAC)
+- **Features:** Trip management, atomic seat booking, booking history, Swagger API
+
+`Angular` `Node.js` `Express.js` `MongoDB` `JWT` `TailwindCSS`
+
+---
 
 ### 🏥 [ClinicFlow — Multi-Tenant SaaS](https://github.com/Osama-matter/Clinic-appointment-management.git)
 > Enterprise clinic management platform built for scale.
