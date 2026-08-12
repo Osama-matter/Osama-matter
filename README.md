@@ -38,21 +38,28 @@ IEnumerable<string> GetValues() =>
 
 ## ⚙️ Tech Stack
 
-**Core**
+Backend-focused .NET stack built for scalable, maintainable systems.
+
+### 🧩 Core
 ![C#](https://img.shields.io/badge/C%23-0A0A1A?style=for-the-badge&logo=c-sharp&logoColor=7C3AED)
-![.NET](https://img.shields.io/badge/.NET_8-0A0A1A?style=for-the-badge&logo=dotnet&logoColor=A78BFA)
+![.NET 8](https://img.shields.io/badge/.NET_8-0A0A1A?style=for-the-badge&logo=dotnet&logoColor=A78BFA)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0A0A1A?style=for-the-badge&logo=dotnet&logoColor=C4B5FD)
 
-**Data**
+### 🗄️ Data
 ![SQL Server](https://img.shields.io/badge/SQL_Server-0A0A1A?style=for-the-badge&logo=microsoft-sql-server&logoColor=7C3AED)
 ![EF Core](https://img.shields.io/badge/EF_Core-0A0A1A?style=for-the-badge&logo=dotnet&logoColor=A78BFA)
 
-**Patterns & Tools**
+### 🛠️ Patterns & Tools
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0A0A1A?style=for-the-badge&logoColor=white)
-![CQRS](https://img.shields.io/badge/CQRS%2FMediatR-0A0A1A?style=for-the-badge&logoColor=white)
+![CQRS/MediatR](https://img.shields.io/badge/CQRS%2FMediatR-0A0A1A?style=for-the-badge&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-0A0A1A?style=for-the-badge&logo=json-web-tokens&logoColor=7C3AED)
 ![Hangfire](https://img.shields.io/badge/Hangfire-0A0A1A?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0A0A1A?style=for-the-badge&logo=git&logoColor=A78BFA)
+
+### ✨ Highlights
+- **Clean Architecture:** Layers are decoupled for testability, maintainability, and long-term scalability.
+- **CQRS with MediatR:** Commands and queries are separated for clearer, more predictable data flow.
+- **Background Jobs:** Hangfire handles scheduled and asynchronous processing outside the request lifecycle.
 
 ---
 
