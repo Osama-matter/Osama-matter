@@ -20,12 +20,31 @@
 
 <table>
 <tr>
-<td width="35%" valign="top">
+<td width="45%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d3-4696-9d1c-6e07f4bfe329.gif" width="100%"/>
+```csharp
+var osama = new Developer(
+    Name: "Osama Mattar",
+    Role: "Backend .NET Developer",
+    Education: "CS @ Shorouk Academy (2028)",
+    Stack: [
+        "ASP.NET Core 8", "Clean Architecture",
+        "CQRS/MediatR", "EF Core", "SQL Server"
+    ],
+    CurrentlyBuilding: "ClinicFlow — multi-tenant SaaS",
+    OpenToWork: true
+);
+
+IEnumerable<string> Values() =>
+[
+    "Domain-driven design over framework panic",
+    "A good abstraction beats a clever hack",
+    "Ship it — then make it beautiful"
+];
+```
 
 </td>
-<td width="65%" valign="top">
+<td width="55%" valign="top">
 
 - 🎓 CS student at **Shorouk Academy**, Cairo — expected graduation **2028**
 - 💼 Backend developer specialized in **ASP.NET Core**, **Clean Architecture** & **CQRS/MediatR**
@@ -56,7 +75,12 @@
 ## 🛠️ Problem Solving & Software Engineering
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450"/>
+
+![Clean Architecture](https://img.shields.io/badge/CLEAN_ARCHITECTURE-7C3AED?style=for-the-badge)
+![CQRS](https://img.shields.io/badge/CQRS_%2F_MEDIATR-4C1D95?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID_PRINCIPLES-1E1B4B?style=for-the-badge)
+![System Design](https://img.shields.io/badge/SYSTEM_DESIGN-7C3AED?style=for-the-badge)
+
 </div>
 
 <table>
