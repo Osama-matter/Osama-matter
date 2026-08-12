@@ -1,125 +1,173 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Hi%2C+I'm+Osama+Matter+%F0%9F%91%8B;Backend+Developer+%7C+.NET+Specialist)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=180&section=header&text=Osama%20Mattar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20.NET%20Developer%20%7C%20Clean%20Architecture%20%7C%20CQRS&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=120&section=header&animation=fadeIn" width="100%"/>
+### 👋 Hello there, I'm Osama
+
+![Backend Developer](https://img.shields.io/badge/BACKEND_DEVELOPER-7C3AED?style=for-the-badge&logoColor=white)
+![.NET Specialist](https://img.shields.io/badge/.NET_SPECIALIST-4C1D95?style=for-the-badge&logoColor=white)
+![CS Student](https://img.shields.io/badge/CS_STUDENT-1E1B4B?style=for-the-badge&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A1A?style=for-the-badge&logo=linkedin&logoColor=7C3AED)](https://www.linkedin.com/in/osama-mattar-86511b341)
 [![GitHub](https://img.shields.io/badge/GitHub-0A0A1A?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/Osama-matter)
-[![Profile Views](https://komarev.com/ghpvc/?username=Osama-matter&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Osama-mattar)
+[![Profile Views](https://komarev.com/ghpvc/?username=Osama-matter&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Osama-matter)
 
 </div>
 
 ---
 
-## `> whoami`
+## 🧑‍💻 About Me
 
-CS student architecting **production-grade .NET backends**. I care deeply about clean code, scalable systems, and getting the domain model right the first time.
+<table>
+<tr>
+<td width="35%" valign="top">
 
-```csharp
-// C# 12 — because old habits are technical debt
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d3-4696-9d1c-6e07f4bfe329.gif" width="100%"/>
 
-var me = new Developer(
-    Name: "Osama Mattar",
-    Stack: ["ASP.NET Core 8", "Clean Architecture", "CQRS", "EF Core", "SQL Server"],
-    CurrentlyBuilding: "Multi-tenant SaaS clinic management platform",
-    OpenToWork: true
-);
+</td>
+<td width="65%" valign="top">
 
-IEnumerable<string> GetValues() =>
-[
-    "Domain-driven design over framework-driven panic",
-    "A good abstraction beats a clever hack",
-    "Ship it — then make it beautiful"
-];
-```
+- 🎓 CS student at **Shorouk Academy**, Cairo — expected graduation **2028**
+- 💼 Backend developer specialized in **ASP.NET Core**, **Clean Architecture** & **CQRS/MediatR**
+- 🏗️ Currently building **ClinicFlow**, a multi-tenant SaaS clinic management platform
+- 🎬 Also run a CS-education channel producing Arabic-language content for students
+- 🌱 Learning: **Docker**, **Azure**, and distributed systems patterns
+- 💬 Ask me about: **EF Core**, **REST APIs**, **SQL Server**, **system design**
+- ⚡ Fun fact: I ship the domain model first, then make it beautiful
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚙️ Tech Stack
+## 🎓 Education
 
-**Core**
-![C#](https://img.shields.io/badge/C%23-0A0A1A?style=for-the-badge&logo=c-sharp&logoColor=7C3AED)
-![.NET](https://img.shields.io/badge/.NET_8-0A0A1A?style=for-the-badge&logo=dotnet&logoColor=A78BFA)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0A0A1A?style=for-the-badge&logo=dotnet&logoColor=C4B5FD)
+![Computer Science](https://img.shields.io/badge/B.Sc._COMPUTER_SCIENCE-7C3AED?style=for-the-badge)
+![Shorouk Academy](https://img.shields.io/badge/SHOROUK_ACADEMY-4C1D95?style=for-the-badge)
+![2028](https://img.shields.io/badge/EXPECTED_2028-1E1B4B?style=for-the-badge)
 
-**Data**
-![SQL Server](https://img.shields.io/badge/SQL_Server-0A0A1A?style=for-the-badge&logo=microsoft-sql-server&logoColor=7C3AED)
-![EF Core](https://img.shields.io/badge/EF_Core-0A0A1A?style=for-the-badge&logo=dotnet&logoColor=A78BFA)
+| 📚 Data Structures | 🌐 Computer Networks | 🖥️ System Analysis & Design |
+|:---:|:---:|:---:|
+| Arrays, trees, graphs | CS250 / CS3201 | CS210 |
 
-**Patterns & Tools**
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0A0A1A?style=for-the-badge&logoColor=white)
-![CQRS](https://img.shields.io/badge/CQRS%2FMediatR-0A0A1A?style=for-the-badge&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-0A0A1A?style=for-the-badge&logo=json-web-tokens&logoColor=7C3AED)
-![Hangfire](https://img.shields.io/badge/Hangfire-0A0A1A?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0A0A1A?style=for-the-badge&logo=git&logoColor=A78BFA)
+---
+
+## 🛠️ Problem Solving & Software Engineering
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450"/>
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🏗️ Architecture**
+Clean Architecture
+Layered boundaries
+
+</td>
+<td align="center" width="25%">
+
+**⚡ CQRS/MediatR**
+Command-query split
+Decoupled handlers
+
+</td>
+<td align="center" width="25%">
+
+**🗄️ Data Access**
+EF Core
+SQL Server
+
+</td>
+<td align="center" width="25%">
+
+**🔐 DevOps-adjacent**
+JWT auth
+Hangfire jobs
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 Framework & Technology Versatility
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🔧 Backend
+ASP.NET Core 8
+Clean Architecture
+CQRS / MediatR
+EF Core
+
+</td>
+<td align="center" width="25%">
+
+### 🎨 Frontend
+React
+Tailwind CSS
+Arabic RTL support
+
+</td>
+<td align="center" width="25%">
+
+### 🗃️ Database
+SQL Server
+PostgreSQL + pgvector
+
+</td>
+<td align="center" width="25%">
+
+### 🚀 DevOps
+Git
+Hangfire
+Serilog
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏗️ Featured Projects
-### 🍔 [Food Delivery System](https://github.com/Osama-matter/Delivery-System)
-
-> Scalable food delivery backend built with Clean Architecture.
-
-- **Architecture:** Clean Architecture + CQRS/MediatR
-- **Authentication:** JWT + Role-Based Authorization
-- **Business Logic:** Complete order lifecycle & delivery workflow
-- **API Surface:** RESTful API with Swagger/OpenAPI documentation
-
-`ASP.NET Core 8` `EF Core` `SQL Server` `JWT` `Swagger`
-
----
-
-### 🚍 [Transportation Booking Platform](https://github.com/AbdoSol1iman/Transportation-booking-)
-
-> Full-stack transportation booking platform for managing intercity trips.
-
-- **Frontend:** Angular + Tailwind CSS
-- **Backend:** Node.js + Express + MongoDB
-- **Security:** JWT Authentication + Role-Based Access Control (RBAC)
-- **Features:** Trip management, atomic seat booking, booking history, Swagger API
-
-`Angular` `Node.js` `Express.js` `MongoDB` `JWT` `TailwindCSS`
-
----
 
 ### 🏥 [ClinicFlow — Multi-Tenant SaaS](https://github.com/Osama-matter/Clinic-appointment-management.git)
 > Enterprise clinic management platform built for scale.
-
-- **Architecture:** Clean Architecture + CQRS/MediatR, fully multi-tenant
-- **Security:** JWT + fine-grained RBAC across tenant boundaries
-- **Reliability:** Hangfire background jobs, Serilog structured logging
-- **API surface:** 15+ documented RESTful endpoints (Swagger/OpenAPI)
+- Clean Architecture + CQRS/MediatR, fully multi-tenant
+- JWT + fine-grained RBAC across tenant boundaries
+- Hangfire background jobs, Serilog structured logging
 
 `ASP.NET Core 8` `EF Core` `SQL Server` `Hangfire` `Serilog`
 
 ---
 
+### 🍔 [Food Delivery System](https://github.com/Osama-matter/Delivery-System)
+> Scalable food delivery backend built with Clean Architecture.
+- Complete order lifecycle & delivery workflow
+- JWT + Role-Based Authorization
+- RESTful API with Swagger/OpenAPI documentation
+
+`ASP.NET Core 8` `EF Core` `SQL Server` `JWT` `Swagger`
+
+---
+
 ### 🌊 [AquaCheck Digital Platform](https://aquacheckdigitalplatform.runasp.net/) ← *Live in Production*
 > End-to-end dive center operations platform.
-
 - E-signature integration + automated PDF generation
 - Centralized digital record management
-- Deployed and actively serving real users
 
 `ASP.NET MVC` `PDF Generation` `Digital Signatures`
 
 ---
 
-### 🛍️ [Mega Matter E-Commerce](https://lnkd.in/gyXhnwnM)
-> Full-stack storefront with real payment processing — built in 3 weeks.
-
-- PayPal API v2 integration, full cart + checkout flow
-- 18,000+ lines of production code
-- Responsive design with Bootstrap + jQuery
-
-`ASP.NET MVC` `PayPal API v2` `Bootstrap`
-
----
-
 ### 🎓 [EduPlatform — Enterprise LMS](https://github.com/Osama-matter/Educational_Platform_Backend)
 > Multi-role Learning Management System for academic institutions.
-
 - Course management, student progress tracking, multi-tier auth
 - Clean separation of concerns, EF Core data layer
 
@@ -129,21 +177,24 @@ IEnumerable<string> GetValues() =>
 
 ### 🏭 [Industrix — Inventory Microservice](https://github.com/Osama-matter/Industrix)
 > Industrial inventory tracking with a microservices backbone.
-
 - Real-time inventory state, analytics + reporting endpoints
-- High-performance REST APIs
 
 `Microservices` `.NET Core` `SQL Server`
 
 ---
 
-### 🏨 [Hotel Booking System API](https://github.com/Osama-matter/Hotel-Bokking-System)
-> Reservation management REST API with full auth.
+## 📫 Connect With Me
 
-- JWT authentication, role-based access, reservation CRUD
-- Repository pattern for clean data access
+[![Email](https://img.shields.io/badge/EMAIL_ME-0A0A1A?style=for-the-badge&logo=gmail&logoColor=7C3AED)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A1A?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/osama-mattar-86511b341)
 
-`REST API` `JWT` `EF Core`
+---
+
+## 🧰 Languages & Tools
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,ts,html,css,tailwind,mysql,postgres,git,github,figma,vscode,linux&theme=dark" />
+</div>
 
 ---
 
@@ -151,7 +202,16 @@ IEnumerable<string> GetValues() =>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Osama-matter&theme=midnight-purple&hide_border=true&background=0A0A1A&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD" />
+<img src="https://github-readme-stats.vercel.app/api?username=Osama-matter&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0A0A1A&title_color=7C3AED&icon_color=A78BFA&text_color=C4B5FD" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Osama-matter&theme=midnight-purple&hide_border=true&background=0A0A1A&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Osama-matter&theme=react-dark&bg_color=0A0A1A&color=A78BFA&line=7C3AED&point=C4B5FD&hide_border=true" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Osama-matter&theme=midnight-purple&hide_border=true&background=0A0A1A" width="100%"/>
 
 <br/><br/>
 
@@ -161,25 +221,7 @@ IEnumerable<string> GetValues() =>
 
 ---
 
-## 🌱 On the Horizon
-
-- 🐳 Docker & containerization
-- ☁️ Azure cloud services
-- 🎨 Angular for full-stack reach
-- 🏗️ Advanced distributed systems patterns
-
----
-
-## 💼 Let's Work Together
-
-I'm looking for **backend roles** where clean architecture and real engineering discipline matter. If you're building something serious with .NET, I want to talk.
-
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email_Me-0A0A1A?style=for-the-badge&logo=gmail&logoColor=7C3AED)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-0A0A1A?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/osama-matter-86511b341)
-
-<br/>
 
 *"Make it work, make it right, make it fast — in that order."*
 
