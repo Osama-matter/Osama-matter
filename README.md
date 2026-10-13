@@ -5,13 +5,13 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A1A?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/osama-mattar-86511b341)
-[![Email](https://img.shields.io/badge/Email-0A0A1A?style=for-the-badge&logo=gmail&logoColor=7C3AED)](mailto:your.email@example.com)
-[![Live](https://img.shields.io/badge/Live_Project-AquaCheck-0A0A1A?style=for-the-badge&logoColor=34D399&labelColor=0A0A1A&color=34D399)](https://aquacheckdigitalplatform.runasp.net/)
-[![Open to work](https://img.shields.io/badge/Open_to_work-Backend_.NET-0A0A1A?style=for-the-badge&labelColor=0A0A1A&color=7C3AED)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-0A0A1A?style=for-the-badge&logo=gmail&logoColor=7C3AED)](osamamatter390@gmail.com)
+[![Live Project](https://img.shields.io/badge/Live_Project-MatterHub-0A0A1A?style=for-the-badge&logoColor=34D399&labelColor=0A0A1A&color=34D399)](https://mattar-dev.vercel.app/)
+[![Open to work](https://img.shields.io/badge/Open_to_work-Backend_.NET-0A0A1A?style=for-the-badge&labelColor=0A0A1A&color=7C3AED)](mailto:osamamatter390@gmail.com)
 
 <img src="assets/control.svg" width="85%" alt="Profile control panel"/>
 
-[ClinicFlow](https://github.com/Osama-matter/Clinic-appointment-management.git) &nbsp;|&nbsp; [AquaCheck (Live)](https://aquacheckdigitalplatform.runasp.net/) &nbsp;|&nbsp; [All projects](#-projects) &nbsp;|&nbsp; [Contact](#-contact)
+[ClinicFlow](https://github.com/Osama-matter/Clinic-appointment-management.git) &nbsp;|&nbsp; [MatterHub (Live)](https://mattar-dev.vercel.app/) &nbsp;|&nbsp; [All projects](#-projects) &nbsp;|&nbsp; [Contact](#-contact)
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
@@ -22,7 +22,7 @@
 I'm a CS student and backend developer who builds **production-grade .NET systems**, not just CRUD APIs.
 I design the domain model first, secure it with **JWT + RBAC**, and make it reliable with **background jobs and structured logging**.
 
-- 🚀 **Shipped:** [AquaCheck](https://aquacheckdigitalplatform.runasp.net/), a live platform serving real users
+- 🚀 **Shipped:** [MatterHub](https://mattar-dev.vercel.app/), a live platform serving real users
 - 🏗️ **Building:** ClinicFlow, a multi-tenant SaaS for clinic management
 - 🧠 **Principle:** *Make it work, make it right, make it fast, in that order.*
 
