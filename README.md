@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=140&section=header&text=Osama%20Mattar&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20.NET%20%26%20Clean%20Architecture&descSize=18&descAlignY=60" width="100%"/>
+<img src="https://github.com/Osama-matter.png?size=200" width="110" alt="Osama Mattar"/>
 
-**I build production-grade .NET backends: multi-tenant, secure, and maintainable.**
+# Osama Mattar
+
+### Backend Developer · ASP.NET Core · Clean Architecture
+
+*I build secure, multi-tenant .NET backends that are ready for production.*
+
+`.NET 8` · `CQRS` · `EF Core` · `SQL Server` · `Hangfire`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A1A?style=for-the-badge&logo=linkedin&logoColor=7C3AED)](https://www.linkedin.com/in/osama-mattar-86511b341)
 [![Email](https://img.shields.io/badge/Email-0A0A1A?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:your.email@example.com)
