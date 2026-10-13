@@ -19,7 +19,7 @@
 <rect x="320" y="200" width="260" height="92" rx="12" fill="#0A0A1A" stroke="#34d399" stroke-opacity="0.7"/>
 <circle cx="342" cy="224" r="5" fill="#34d399"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
 <text x="356" y="228" font-family="'SFMono-Regular',Consolas,'Courier New',monospace" font-size="10" letter-spacing="2.5" fill="#34d399">LIVE IN PRODUCTION</text>
-<text x="340" y="260" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="800" fill="#ffffff">MatterHub</text>
+<text x="340" y="260" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="800" fill="#ffffff">MatterHub</text> 
 <text x="340" y="281" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#a5a3c7">Real users · Learning platform</text>
 <rect x="600" y="200" width="260" height="92" rx="12" fill="#0A0A1A" stroke="#22d3ee" stroke-opacity="0.7"/>
 <circle cx="622" cy="224" r="5" fill="#22d3ee"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
