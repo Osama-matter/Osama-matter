@@ -1,156 +1,109 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Hi%2C+I'm+Osama+Matter+%F0%9F%91%8B;Backend+Developer+%7C+.NET+Specialist)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=140&section=header&text=Osama%20Mattar&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20.NET%20%26%20Clean%20Architecture&descSize=18&descAlignY=60" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=120&section=header&animation=fadeIn" width="100%"/>
+**I build production-grade .NET backends: multi-tenant, secure, and maintainable.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A1A?style=for-the-badge&logo=linkedin&logoColor=7C3AED)](https://www.linkedin.com/in/osama-mattar-86511b341)
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A1A?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/Osama-matter)
-[![Profile Views](https://komarev.com/ghpvc/?username=Osama-matter&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Osama-mattar)
+[![Email](https://img.shields.io/badge/Email-0A0A1A?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:your.email@example.com)
+[![Live Project](https://img.shields.io/badge/Live_in_Production-0A0A1A?style=for-the-badge&logo=azurepipelines&logoColor=34D399)](https://aquacheckdigitalplatform.runasp.net/)
+![Open to work](https://img.shields.io/badge/Open_to_Work-Backend_.NET-34D399?style=for-the-badge&labelColor=0A0A1A)
 
 </div>
 
 ---
 
-## `> whoami`
+## 👋 About me
 
-CS student architecting **production-grade .NET backends**. I care deeply about clean code, scalable systems, and getting the domain model right the first time.
+CS student and backend developer focused on **ASP.NET Core 8**, **Clean Architecture** and **CQRS**.
+I don't just build CRUD APIs. I design the domain model, secure it (JWT + RBAC), and make it reliable (background jobs, structured logging).
 
-```csharp
-// C# 12 — because old habits are technical debt
-
-var me = new Developer(
-    Name: "Osama Mattar",
-    Stack: ["ASP.NET Core 8", "Clean Architecture", "CQRS", "EF Core", "SQL Server"],
-    CurrentlyBuilding: "Multi-tenant SaaS clinic management platform",
-    OpenToWork: true
-);
-
-IEnumerable<string> GetValues() =>
-[
-    "Domain-driven design over framework-driven panic",
-    "A good abstraction beats a clever hack",
-    "Ship it — then make it beautiful"
-];
-```
+- 🚀 **Shipped to production:** a real platform used by real users ([AquaCheck](https://aquacheckdigitalplatform.runasp.net/))
+- 🏗️ **Currently building:** ClinicFlow, a multi-tenant SaaS for clinic management
+- 🧠 **Philosophy:** *Make it work, make it right, make it fast, in that order.*
 
 ---
 
-## ⚙️ Tech Stack
+## 🧰 Tech Stack
 
-Backend-focused .NET stack built for scalable, maintainable systems.
-
-### 🧩 Core
 ![C#](https://img.shields.io/badge/C%23-0A0A1A?style=for-the-badge&logo=c-sharp&logoColor=7C3AED)
 ![.NET 8](https://img.shields.io/badge/.NET_8-0A0A1A?style=for-the-badge&logo=dotnet&logoColor=A78BFA)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0A0A1A?style=for-the-badge&logo=dotnet&logoColor=C4B5FD)
-
-### 🗄️ Data
-![SQL Server](https://img.shields.io/badge/SQL_Server-0A0A1A?style=for-the-badge&logo=microsoft-sql-server&logoColor=7C3AED)
 ![EF Core](https://img.shields.io/badge/EF_Core-0A0A1A?style=for-the-badge&logo=dotnet&logoColor=A78BFA)
-
-### 🛠️ Patterns & Tools
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0A0A1A?style=for-the-badge&logoColor=white)
-![CQRS/MediatR](https://img.shields.io/badge/CQRS%2FMediatR-0A0A1A?style=for-the-badge&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-0A0A1A?style=for-the-badge&logo=json-web-tokens&logoColor=7C3AED)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0A0A1A?style=for-the-badge&logo=microsoft-sql-server&logoColor=7C3AED)
+![MediatR](https://img.shields.io/badge/MediatR_CQRS-0A0A1A?style=for-the-badge&logoColor=white)
 ![Hangfire](https://img.shields.io/badge/Hangfire-0A0A1A?style=for-the-badge&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-0A0A1A?style=for-the-badge&logo=json-web-tokens&logoColor=7C3AED)
+![Swagger](https://img.shields.io/badge/Swagger-0A0A1A?style=for-the-badge&logo=swagger&logoColor=A78BFA)
 ![Git](https://img.shields.io/badge/Git-0A0A1A?style=for-the-badge&logo=git&logoColor=A78BFA)
 
-### ✨ Highlights
-- **Clean Architecture:** Layers are decoupled for testability, maintainability, and long-term scalability.
-- **CQRS with MediatR:** Commands and queries are separated for clearer, more predictable data flow.
-- **Background Jobs:** Hangfire handles scheduled and asynchronous processing outside the request lifecycle.
+---
+
+## ⭐ Flagship Project
+
+### 🏥 [ClinicFlow: Multi-Tenant SaaS for Clinic Management](https://github.com/Osama-matter/Clinic-appointment-management.git)
+
+> Enterprise-grade platform where each clinic (tenant) gets isolated data, roles and workflows.
+
+| | |
+|---|---|
+| **Architecture** | Clean Architecture + CQRS (MediatR), fully multi-tenant |
+| **Security** | JWT + fine-grained RBAC across tenant boundaries |
+| **Reliability** | Hangfire background jobs, Serilog structured logging |
+| **API** | 15+ documented REST endpoints (Swagger / OpenAPI) |
+
+```mermaid
+flowchart LR
+    A[Client] --> B[API Layer]
+    B -->|Commands / Queries| C[MediatR]
+    C --> D[Application Handlers]
+    D --> E[Domain Model]
+    D --> F[(SQL Server via EF Core)]
+    G[Hangfire Jobs] --> D
+```
+
+`ASP.NET Core 8` `EF Core` `SQL Server` `MediatR` `Hangfire` `Serilog`
 
 ---
 
-## 🏗️ Featured Projects
-### 🍔 [Food Delivery System](https://github.com/Osama-matter/Delivery-System)
+## 🚀 Live in Production
 
-> Scalable food delivery backend built with Clean Architecture.
+### 🌊 [AquaCheck Digital Platform](https://aquacheckdigitalplatform.runasp.net/)
 
-- **Architecture:** Clean Architecture + CQRS/MediatR
-- **Authentication:** JWT + Role-Based Authorization
-- **Business Logic:** Complete order lifecycle & delivery workflow
-- **API Surface:** RESTful API with Swagger/OpenAPI documentation
-
-`ASP.NET Core 8` `EF Core` `SQL Server` `JWT` `Swagger`
-
----
-
-### 🚍 [Transportation Booking Platform](https://github.com/AbdoSol1iman/Transportation-booking-)
-
-> Full-stack transportation booking platform for managing intercity trips.
-
-- **Frontend:** Angular + Tailwind CSS
-- **Backend:** Node.js + Express + MongoDB
-- **Security:** JWT Authentication + Role-Based Access Control (RBAC)
-- **Features:** Trip management, atomic seat booking, booking history, Swagger API
-
-`Angular` `Node.js` `Express.js` `MongoDB` `JWT` `TailwindCSS`
-
----
-
-### 🏥 [ClinicFlow — Multi-Tenant SaaS](https://github.com/Osama-matter/Clinic-appointment-management.git)
-> Enterprise clinic management platform built for scale.
-
-- **Architecture:** Clean Architecture + CQRS/MediatR, fully multi-tenant
-- **Security:** JWT + fine-grained RBAC across tenant boundaries
-- **Reliability:** Hangfire background jobs, Serilog structured logging
-- **API surface:** 15+ documented RESTful endpoints (Swagger/OpenAPI)
-
-`ASP.NET Core 8` `EF Core` `SQL Server` `Hangfire` `Serilog`
-
----
-
-### 🌊 [AquaCheck Digital Platform](https://aquacheckdigitalplatform.runasp.net/) ← *Live in Production*
-> End-to-end dive center operations platform.
+> End-to-end operations platform for a dive center, **deployed and used by real users**.
 
 - E-signature integration + automated PDF generation
 - Centralized digital record management
-- Deployed and actively serving real users
 
 `ASP.NET MVC` `PDF Generation` `Digital Signatures`
 
 ---
 
-### 🛍️ [Mega Matter E-Commerce](https://lnkd.in/gyXhnwnM)
-> Full-stack storefront with real payment processing — built in 3 weeks.
+## 🏗️ More Projects
 
-- PayPal API v2 integration, full cart + checkout flow
-- 18,000+ lines of production code
-- Responsive design with Bootstrap + jQuery
-
-`ASP.NET MVC` `PayPal API v2` `Bootstrap`
-
----
-
-### 🎓 [EduPlatform — Enterprise LMS](https://github.com/Osama-matter/Educational_Platform_Backend)
-> Multi-role Learning Management System for academic institutions.
-
-- Course management, student progress tracking, multi-tier auth
-- Clean separation of concerns, EF Core data layer
-
-`ASP.NET Core` `EF Core` `JWT` `SQL Server`
+| Project | What it shows | Stack |
+|---|---|---|
+| 🍔 [**Food Delivery System**](https://github.com/Osama-matter/Delivery-System) | Clean Architecture + CQRS, JWT + role-based auth, full order & delivery lifecycle, Swagger docs | `ASP.NET Core 8` `EF Core` `SQL Server` |
+| 🛍️ [**Mega Matter E-Commerce**](https://lnkd.in/gyXhnwnM) | Real payments (PayPal API v2), cart + checkout flow, 18,000+ lines, built in 3 weeks | `ASP.NET MVC` `PayPal` `Bootstrap` |
+| 🎓 [**EduPlatform LMS**](https://github.com/Osama-matter/Educational_Platform_Backend) | Multi-role LMS: courses, student progress, multi-tier auth | `ASP.NET Core` `EF Core` `JWT` |
+| 🏭 [**Industrix**](https://github.com/Osama-matter/Industrix) | Inventory microservice with real-time state, analytics and reporting endpoints | `Microservices` `.NET Core` `SQL Server` |
+| 🏨 [**Hotel Booking API**](https://github.com/Osama-matter/Hotel-Bokking-System) | Reservation CRUD, JWT + RBAC, repository pattern | `REST API` `JWT` `EF Core` |
+| 🚍 [**Transportation Booking**](https://github.com/AbdoSol1iman/Transportation-booking-) | Full-stack: atomic seat booking, RBAC, booking history | `Angular` `Node.js` `MongoDB` |
 
 ---
 
-### 🏭 [Industrix — Inventory Microservice](https://github.com/Osama-matter/Industrix)
-> Industrial inventory tracking with a microservices backbone.
+## 💡 How I build
 
-- Real-time inventory state, analytics + reporting endpoints
-- High-performance REST APIs
-
-`Microservices` `.NET Core` `SQL Server`
+- **Domain first:** I model the business before touching the framework.
+- **Separation of concerns:** layers that can be tested and swapped independently.
+- **Secure by default:** authentication, authorization and tenant isolation from day one.
+- **Documented APIs:** every endpoint is described in Swagger so others can use it immediately.
 
 ---
 
-### 🏨 [Hotel Booking System API](https://github.com/Osama-matter/Hotel-Bokking-System)
-> Reservation management REST API with full auth.
+## 🌱 Learning next
 
-- JWT authentication, role-based access, reservation CRUD
-- Repository pattern for clean data access
-
-`REST API` `JWT` `EF Core`
+🐳 Docker · ☁️ Azure · 🎨 Angular · 🏗️ Distributed systems patterns
 
 ---
 
@@ -158,37 +111,24 @@ Backend-focused .NET stack built for scalable, maintainable systems.
 
 <div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Osama-matter&show_icons=true&hide_border=true&bg_color=0A0A1A&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-matter&layout=compact&hide_border=true&bg_color=0A0A1A&title_color=A78BFA&text_color=C4B5FD" />
+
 <img src="https://streak-stats.demolab.com?user=Osama-matter&theme=midnight-purple&hide_border=true&background=0A0A1A&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Osama-matter&theme=discord&no-frame=true&row=1&column=6" />
 
 </div>
 
 ---
 
-## 🌱 On the Horizon
+## 💼 Let's work together
 
-- 🐳 Docker & containerization
-- ☁️ Azure cloud services
-- 🎨 Angular for full-stack reach
-- 🏗️ Advanced distributed systems patterns
-
----
-
-## 💼 Let's Work Together
-
-I'm looking for **backend roles** where clean architecture and real engineering discipline matter. If you're building something serious with .NET, I want to talk.
+I'm looking for a **backend role (.NET)** where clean architecture and engineering discipline matter.
+If you're building something serious, **let's talk**.
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email_Me-0A0A1A?style=for-the-badge&logo=gmail&logoColor=7C3AED)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-0A0A1A?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/osama-matter-86511b341)
-
-<br/>
-
-*"Make it work, make it right, make it fast — in that order."*
+[![LinkedIn](https://img.shields.io/badge/Connect-0A0A1A?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/osama-mattar-86511b341)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:1e1b4b&height=100&section=footer" width="100%"/>
 
